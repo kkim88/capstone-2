@@ -13,6 +13,7 @@ Encapsulation is the process of wrapping data and methods to access and use that
 
 
 ********************
+
 2. Inheritance
 
 Inheritance is when a class defined by basing it on an existing class, using the same methods and properties. By passing properties from one class to another, the child class "inherits" variables and methods from the parent. It is useful as a way to group similar objects together (a classic example being putting dog and cat under the broader "parent" of animal) or connect related classes to each other (such as connecting employees to the company they work for) and allows for reusing of code, saving time, space, and reducing errors.
@@ -23,6 +24,7 @@ Inheritance is when a class defined by basing it on an existing class, using the
 
 
 ********************
+
 3. Abstraction
 
 Abstraction, also known as data abstraction, is showing only essential information and functions to the user and hiding everything else. Abstraction is achieved by using abstract classes, which are classes that are declared using the abstract keyword and cannot be instantiated, or by using interfaces. Abstraction helps reduce program complexity and lets you group related classes together. 
@@ -33,6 +35,7 @@ Abstraction, also known as data abstraction, is showing only essential informati
 
 
 ********************
+
 4. Polymorphism
    
 Every definition on polymorphism begins with the meaning of the word, which is "many forms." In terms of Java, this is a concept related to inheritance. Polymorphism occurs when an inherited method performs a different task from the original method. A simple example of this is when a method that prints out a message in the parent class prints out a different message in the child class. These are both methods that have the same name and do a similar thing, but the output is slightly different. Polymorphism allows for code reuse and is one of the main advantages of using inheritance.
